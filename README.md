@@ -1,7 +1,7 @@
 # Kevin Alves
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Frontend Developer :computer:
+Sou um Fullstack Developer :computer:
 
  :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  
