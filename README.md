@@ -1,8 +1,7 @@
 # Kevin Alves
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou apaixonado por resolver problemas utilizando programação e novas tecnologias.
 Sou um Fullstack Developer :computer: <br />
-![](https://komarev.com/ghpvc/?username=KevinAlvss)
 
  :blue_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  
