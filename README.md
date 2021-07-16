@@ -10,7 +10,7 @@ Sou um Fullstack Developer :computer: <br />
  
  <br/> 📖 &nbsp; Estudando Node.js
  
- <br/> :star: &nbsp; Tecnologias: React, JavaScript, CSS, HTML, MYSQL Typescript & C#
+ <br/> :star: &nbsp; Tecnologias: React, JavaScript, CSS, Styled-components, axios, HTML, MYSQL, SQL Server, Typescript & C#
  
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games GTA 5, FIFA, e sou músico nas horas vagas :guitar:
 
