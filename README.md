@@ -9,6 +9,11 @@ Sou um Fullstack Developer :computer: <br />
  <br/> :star: &nbsp; Tecnologias: React, JavaScript, CSS, Styled-components, axios, HTML, MYSQL, SQL Server, Typescript & C#
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games GTA 5, FIFA, e sou músico nas horas vagas :guitar: <br/>
 
-[![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinAlvss&theme=tokyonight&show_icons=true&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAlvss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <a href="https://github.com/KevinAlvss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinAlvss&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAlvss&layout=compact&langs_count=7&theme=nord"/>
+</div>
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
