@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **React, JavaScript and C#**
 
-- 📫 How to reach me **kevin.alvesprr04@gmail.com**
-
 - ⚡ Fun fact **I am also a musician**
 
 <h3 align="left">Connect with me:</h3>
